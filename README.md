@@ -9,18 +9,19 @@ It was developed using the geocoder library, in order to fetch the user's locati
 
 1) Clone this repository:
 
-```https://github.com/marcelfg/current-weather.git
 ```
-
+https://github.com/marcelfg/current-weather.git
+```
 2) Insert your API key into the config.py file. See <https://openweathermap.org/appid#get>
 
 3) Run:
 
-```python current_weather.py
+```
+python current_weather.py
 ```
 
 ## Acknowledgements
 
-<https://www.udemy.com/course/complete-python-bootcamp/>
-<https://geocoder.readthedocs.io/>    
+<https://www.udemy.com/course/complete-python-bootcamp/>\
+<https://geocoder.readthedocs.io/>\
 <https://openweathermap.org/>
