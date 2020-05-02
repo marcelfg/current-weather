@@ -1,7 +1,7 @@
 # Current Weather
 > This is a simple python program to get current weather info based on user's location.
 
-This program was developed as a project for the course "Complete Python Bootcamp: Go from zero to hero in Python 3", available on Udemy. It allows to get get current weather information based on a user's location. 
+This program was developed as a project for the course "Complete Python Bootcamp: Go from zero to hero in Python 3", available on Udemy. It allows to get current weather information based on user's location. 
 
 It was developed using the geocoder library, in order to fetch the user's location based on its IP address, and the OpenWeatherMap API, to obtain the weather information.
 
